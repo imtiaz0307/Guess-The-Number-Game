@@ -219,6 +219,12 @@ body{
     }
 }
 
+@media (max-width: 1000px) {
+    .tip{
+        display: none;
+    }
+}
+
 @media (max-width:475px){
     html{
         font-size: 2vw;
